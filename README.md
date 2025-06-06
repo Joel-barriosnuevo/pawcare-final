@@ -1,5 +1,7 @@
 # 🐾 PawCare - Sistema Integral de Gestión Veterinaria
 
+# Darikson barriosnuevo - Danner 
+
 ## 📋 Descripción General
 PawCare es un sistema integral de gestión veterinaria que combina una aplicación web moderna con servicios backend robustos. El sistema está diseñado para facilitar la gestión de clínicas veterinarias, permitiendo el manejo eficiente de pacientes, citas, historiales médicos y más.
 
